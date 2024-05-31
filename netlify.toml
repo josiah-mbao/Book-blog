@@ -1,4 +1,4 @@
 [build]
   base = "astroBlog" # Specify the base directory
   command = "npm run build"
-  publish = "astroBlog/dist"
+  publish = "dist"
